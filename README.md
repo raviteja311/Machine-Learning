@@ -7,6 +7,6 @@ This Jupyter Notebook analyzes the Boston housing dataset to predict house price
   score.
 
 
-*Linear Regression: USA Housing Price Prediction
+* Linear Regression: USA Housing Price Prediction
 
 This Jupyter Notebook, titled "Linear Regression USA Housing Price Prediction," analyzes a housing dataset to predict house prices using a multiple linear regression model. The pipeline involves loading the data, performing exploratory data analysis, and preparing the data for the model. The data is then split into training and testing sets, a linear regression model is trained, and its performance is evaluated.
